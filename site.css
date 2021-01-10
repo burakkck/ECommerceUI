@@ -1,0 +1,52 @@
+a:hover {
+    color: black;
+}
+a {
+    color: #6c757d;
+}
+
+nav > div > ul > li > a {
+    color: ffffee;
+}
+
+.kategoriler {
+    box-shadow: 3px 3px 4px #e9ecf5;
+    background-color: #ffffff ;
+}
+
+.kategoriler > ul {
+    background-color: #ffffff;
+}
+
+.urun {
+    margin-top: 10px;
+    border: none;
+}
+.urun:hover {
+    border: solid 2px #153d77;
+}
+ .carousel-control-prev-icon,
+ .carousel-control-next-icon,
+ .carousel-indicators {
+    font-size: 20px;
+    filter: invert(1);
+  }
+
+.btn-sepet {
+    color: white;
+    background-color: #153d77;
+}
+
+.thead-aciklama{
+    color: white;
+    background-color: #153d77;
+}
+
+.star-checked {
+    color: gray;
+  }
+
+  .star-checked:hover{
+      text-decoration: none;
+      color: orange;
+  }
